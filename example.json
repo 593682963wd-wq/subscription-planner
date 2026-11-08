@@ -1,0 +1,17 @@
+{
+  "today": "2026-01-31",
+  "subscriptions": [
+    {
+      "name": "Synthetic reading service",
+      "price": "12.00",
+      "currency": "USD",
+      "cycle": "monthly",
+      "first_bill": "2026-01-31",
+      "reminders": [
+        3,
+        1,
+        0
+      ]
+    }
+  ]
+}
